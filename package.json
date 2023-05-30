@@ -11,6 +11,10 @@
     "url": "git+https://github.com/ishaan199/bloggingSite.git"
   },
   "author": "",
+  "engines" : {
+    "npm":">=8.0.0 < 9.0.0",
+    "node":">=16.0.0 < 17.0.0"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ishaan199/bloggingSite/issues"

@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 mongoose
   .connect(
-    "mongodb+srv://Prital_FunctionUp:PritalMongoDb@cluster0.ea5ijtv.mongodb.net/Project1-DB?retryWrites=true&w=majority",
+   ,
     {
       useNewUrlParser: true,
     }
